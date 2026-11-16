@@ -1,0 +1,1 @@
+{ "name": "anime-crew", "version": "0.1.0", "description": "Compact anime agent strip: one line per subagent with what it's doing, a big multi-anime cast, and a pane with each agent's recent activity. Forked from Sparkle Anime Agents (MIT).", "types": "./types/index.d.ts" }

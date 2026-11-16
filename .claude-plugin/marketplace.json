@@ -1,0 +1,5 @@
+{
+  "name": "anime-crew",
+  "owner": { "name": "jialewang0528-gif" },
+  "plugins": [{ "name": "anime-crew", "source": "./" }]
+}
